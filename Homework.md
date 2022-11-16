@@ -6,12 +6,12 @@ kanban-plugin: basic
 
 ## Not Started
 
-- [ ] CSE216
 
 
 ## In Progress
 
 - [ ] AMS310
+- [ ] CSE216
 
 
 ## Done
