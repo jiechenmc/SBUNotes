@@ -13,18 +13,22 @@
 | Set          | Unordered unique elements; union and intersection operations                     |                            |
 | List         | Usually implemented with array or linked nodes                                   |                            |
 | Sum Type     | Only 1 type can be used at a time                                                | enum                       |
-| Product Type | Compound type                                                                    | tuples or records          |
-|              |                                                                                  |                            |
+| Product Type | Compound type                                                                    | tuples or records          |    |                                                                                  |                            |
 
-> [!note] > Everything in Java is pass by value 
-> Reference types will be passed in as pointers to its values 
-> Primitive types will be all be in separate locations; copies values
+```mermaid
+graph TD
+	A[Shape of Array] --> B(Known at compile time)
 
-Array Shapes
-- If known at compile time
-	- And exist throughout the execution
-		- Static global memory
-	- Does not live throughout the execution
-		- Stack allocation
-- Not known at compile time
-	- Heap allocation
+	A --> C(Not known at compile time)
+
+	C --> D(Heap Allocation)
+
+	B --> E(Exist through runtime)
+
+	B --> F(Does not exist through runtime)
+
+	E --> G(Static Global Memory)
+
+	F --> H(Stack Allocation)
+```
+
