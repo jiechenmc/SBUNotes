@@ -6,20 +6,20 @@ kanban-plugin: basic
 
 ## Not Started
 
-- [ ] CSE216
+- [ ] CSE216 @{2022-11-23}
 
 
 ## In Progress
 
-- [ ] AMS310
+- [ ] AMS310 @{2022-11-18}
 
 
 ## Done
 
 **Complete**
-- [x] EST205
 - [x] VIP295
 - [x] GEO102
+- [x] EST205
 
 
 

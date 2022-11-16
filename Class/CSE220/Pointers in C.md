@@ -1,4 +1,4 @@
-#systems #c
+#concept #c
 
 ```C
 int n; /* an int variable */ 
