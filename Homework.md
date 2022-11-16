@@ -10,7 +10,6 @@ kanban-plugin: basic
 
 ## In Progress
 
-- [ ] CSE216 @{2022-11-23}
 - [ ] AMS310 @{2022-11-18}
 
 
@@ -20,6 +19,7 @@ kanban-plugin: basic
 - [x] VIP295
 - [x] GEO102
 - [x] EST205
+- [x] CSE216
 
 
 
