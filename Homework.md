@@ -6,6 +6,7 @@ kanban-plugin: basic
 
 ## Not Started
 
+- [ ] EST205
 
 
 ## In Progress
@@ -18,7 +19,6 @@ kanban-plugin: basic
 **Complete**
 - [x] VIP295
 - [x] GEO102
-- [x] EST205
 - [x] CSE216
 
 
