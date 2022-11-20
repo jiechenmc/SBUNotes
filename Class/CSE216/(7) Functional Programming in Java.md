@@ -58,5 +58,7 @@
 >[!info] Laziness of Streams
 >1. Intermediate: map() and filter()
 > 	  - Calls to them return immediately and the lambda expressions provided to them are not evaluated right away.
->1. Terminal: reduce()
+>2. Terminal: reduce()
 > 	  - The behavior of intermediate operations is ‘cached’, and used only when the terminal operation is invoked.
+> - Every operation before the last one is **intermediate**; terminal is the last operation
+> - Streams do just enough work to satisfy the **terminal** operation
