@@ -12,7 +12,7 @@
 - [ ] Send pdf
 - [ ] Report media
 
-### Auth
+### Authentication
 - [x] Sign in with Google
 - [ ] Role Management
 
