@@ -3,6 +3,7 @@
 > [!note] > Everything in Java is pass by value 
 > Reference types will have their pointers copied
 > Primitive types will have their values copied
+> **bitwise operators** are evaluated eagerly in most languages
 
 ### Pass by Value (Eager)
 - Arguments are fully evaluated before the function is invoked
@@ -38,3 +39,6 @@ let x = int ref;;  (* similiar to int* in C *)
 ```
 
 ### Thunks
+	A thunk is a subroutine used to inject an additional calculation into another subroutine. They are primarily used to delay a calculation until its result is needed, or to insert operations at the beginning or end of the other subroutine.
+
+	Delaying calculation is done by taking an function, and replacing each argument with a thunk that evaluates that argument.
