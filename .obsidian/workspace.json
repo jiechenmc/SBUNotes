@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d51501b99a576724",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Class/CSE216/(9) Concurrent Programming.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "23e1de2b0c244b7d",
             "type": "leaf",
             "state": {
@@ -30,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "9a6cfb5798f94052",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Self Interest/Interviews/Cool Tricks/Python unpacking.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Self Interest/Interviews/Cool Tricks/Python unpacking.md",
+                "file": "Class/CSE216/(10) Introduction to Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Self Interest/Interviews/Cool Tricks/Python unpacking.md",
+                "file": "Class/CSE216/(10) Introduction to Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Self Interest/Interviews/Cool Tricks/Python unpacking.md"
+                "file": "Class/CSE216/(10) Introduction to Python.md"
               }
             }
           }
@@ -161,8 +136,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9a6cfb5798f94052",
+  "active": "23e1de2b0c244b7d",
   "lastOpenFiles": [
+    "Self Interest/Interviews/Cool Tricks/Python unpacking.md",
     "Class/CSE216/(10) Introduction to Python.md",
     "Class/CSE216/(9) Concurrent Programming.md",
     "Class/CSE220/Pointers in C.md",
