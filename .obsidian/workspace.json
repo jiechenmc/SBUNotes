@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "7f8b601c03ecb2e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "145aa7692dc424d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d51501b99a576724",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Class/CSE216/(9) Concurrent Programming.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "23e1de2b0c244b7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Class/CSE216/(10) Introduction to Python.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9a6cfb5798f94052",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Self Interest/Interviews/Cool Tricks/Python unpacking.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cef7ef280e27ea83",
+    "type": "split",
+    "children": [
+      {
+        "id": "45113aba3290430e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36a28996ae583e4e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9642db010e5ec458",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "821add384c881072",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "769692c87af28f6c",
+    "type": "split",
+    "children": [
+      {
+        "id": "98cf12527ad1b942",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc0e6974dd0b4d21",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Self Interest/Interviews/Cool Tricks/Python unpacking.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dfef2486f805774f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Self Interest/Interviews/Cool Tricks/Python unpacking.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7636c97092070508",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ff8c1b1178607588",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Self Interest/Interviews/Cool Tricks/Python unpacking.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "9a6cfb5798f94052",
+  "lastOpenFiles": [
+    "Class/CSE216/(10) Introduction to Python.md",
+    "Class/CSE216/(9) Concurrent Programming.md",
+    "Class/CSE220/Pointers in C.md",
+    "Class/CSE216/(7) Functional Programming in Java.md",
+    "Class/CSE216/(8) Parameter Passing.md",
+    "Class/CSE216/(6) Polymorphism.md",
+    "Loqi/Microservices.md"
+  ]
+}

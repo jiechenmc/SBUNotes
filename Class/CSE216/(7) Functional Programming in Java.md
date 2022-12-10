@@ -29,9 +29,10 @@
 
 # Evaluation
 
-| Normal Order                                     | Applicative-order       |
-| ------------------------------------------------ | ----------------------- |
-| The left-most function is always evaluated first | The inner most functions are evaluated first | 
+| Normal Order                                     | Applicative-order                            |
+| ------------------------------------------------ | -------------------------------------------- |
+| The left-most function is always evaluated first | The inner most functions are evaluated first |
+| Evaluated when they are actually used            | Evaluated as they are passed in              | 
 
 >[!info] Lazy Evaluation
 > With lazy evaluation, the evaluation is delayed (until needed) in a way that avoids multiple evaluations of the same expression.
