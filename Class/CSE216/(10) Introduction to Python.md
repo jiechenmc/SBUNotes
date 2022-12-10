@@ -1,5 +1,8 @@
 #python 
 
+>[!info] Python is pass by value!
+
+
 # Method Resolution Order
 
 ```python
