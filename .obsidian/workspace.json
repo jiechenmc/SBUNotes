@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Class/CSE216/(11) Functional Elements in Python.md",
-                "mode": "source",
+                "file": "Class/CSE216/(8) Parameter Passing.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Class/CSE216/(11) Functional Elements in Python.md",
+                "file": "Class/CSE216/(8) Parameter Passing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Class/CSE216/(11) Functional Elements in Python.md",
+                "file": "Class/CSE216/(8) Parameter Passing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Class/CSE216/(11) Functional Elements in Python.md"
+                "file": "Class/CSE216/(8) Parameter Passing.md"
               }
             }
           }
@@ -151,13 +151,15 @@
   },
   "active": "ad02c0335964861a",
   "lastOpenFiles": [
-    "Class/CSE216/(10) Introduction to Python.md",
-    "Class/CSE216/(9) Concurrent Programming.md",
-    "Class/CSE220/Pointers in C.md",
-    "Self Interest/Interviews/Cool Tricks/Python unpacking.md",
     "Class/CSE216/(7) Functional Programming in Java.md",
     "Class/CSE216/(8) Parameter Passing.md",
     "Class/CSE216/(6) Polymorphism.md",
+    "Class/CSE216/(5) Types.md",
+    "Class/CSE216/(10) Introduction to Python.md",
+    "Class/CSE216/(11) Functional Elements in Python.md",
+    "Class/CSE216/(9) Concurrent Programming.md",
+    "Class/CSE220/Pointers in C.md",
+    "Self Interest/Interviews/Cool Tricks/Python unpacking.md",
     "Loqi/Microservices.md"
   ]
 }
