@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "Class/CSE216/(5) Types.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -141,22 +141,30 @@
                 "file": "Class/CSE216/(5) Types.md"
               }
             }
+          },
+          {
+            "id": "0e3eacd768d0d2c3",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "ad02c0335964861a",
+  "active": "0e3eacd768d0d2c3",
   "lastOpenFiles": [
-    "Class/CSE216/(7) Functional Programming in Java.md",
+    "Class/CSE216/(11) Functional Elements in Python.md",
+    "Class/CSE216/(10) Introduction to Python.md",
     "Class/CSE216/(8) Parameter Passing.md",
+    "Class/CSE216/(7) Functional Programming in Java.md",
     "Class/CSE216/(6) Polymorphism.md",
     "Class/CSE216/(5) Types.md",
-    "Class/CSE216/(10) Introduction to Python.md",
-    "Class/CSE216/(11) Functional Elements in Python.md",
     "Class/CSE216/(9) Concurrent Programming.md",
     "Class/CSE220/Pointers in C.md",
     "Self Interest/Interviews/Cool Tricks/Python unpacking.md",
