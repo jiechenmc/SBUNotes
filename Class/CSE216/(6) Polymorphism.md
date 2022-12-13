@@ -33,3 +33,6 @@ public <T> T func(T arg){};
 >```java
 >? super T
 >// T and its supertypes
+
+
+If super is the erasure of subclass; it will clash.
