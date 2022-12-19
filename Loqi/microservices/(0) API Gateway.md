@@ -8,3 +8,6 @@ The gateway will be implemented in Nginx
 *Control access to certain services
 
 ```
+
+
+-   `POST /logs`: Write to logs
