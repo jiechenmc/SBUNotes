@@ -26,13 +26,43 @@
               "type": "markdown",
               "state": {
                 "file": "Class/CSE216/(5) Types.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aaf009d47e1d084a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "dd7bc402ad78e6eb",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.9"
+              }
+            }
+          },
+          {
+            "id": "0a000acf7e8db506",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Self Interest/Interviews/Cool Tricks/Go.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -98,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Class/CSE216/(5) Types.md",
+                "file": "Self Interest/Interviews/Cool Tricks/Go.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Class/CSE216/(5) Types.md",
+                "file": "Self Interest/Interviews/Cool Tricks/Go.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Class/CSE216/(5) Types.md"
+                "file": "Self Interest/Interviews/Cool Tricks/Go.md"
               }
             }
           },
@@ -157,14 +187,25 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "0e3eacd768d0d2c3",
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0a000acf7e8db506",
   "lastOpenFiles": [
-    "Class/CSE216/(11) Functional Elements in Python.md",
+    "Class/CSE216/(5) Types.md",
     "Class/CSE216/(10) Introduction to Python.md",
+    "Class/CSE216/(11) Functional Elements in Python.md",
     "Class/CSE216/(8) Parameter Passing.md",
     "Class/CSE216/(7) Functional Programming in Java.md",
     "Class/CSE216/(6) Polymorphism.md",
-    "Class/CSE216/(5) Types.md",
     "Class/CSE216/(9) Concurrent Programming.md",
     "Class/CSE220/Pointers in C.md",
     "Self Interest/Interviews/Cool Tricks/Python unpacking.md",
