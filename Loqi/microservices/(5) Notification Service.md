@@ -1,6 +1,8 @@
 #loqi #service 
 ```
 
+*May not need unless we go mobile*
+
 Manages the delivery of push notifications and alerts
 
 ```

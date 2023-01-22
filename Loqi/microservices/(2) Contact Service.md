@@ -1,6 +1,8 @@
 #loqi #service 
 ```
 
+(Low Priority)
+
 Search for other users
 Send friend requests
 Adding/Removing friends

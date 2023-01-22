@@ -40,29 +40,19 @@
             }
           },
           {
-            "id": "dd7bc402ad78e6eb",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.9"
-              }
-            }
-          },
-          {
-            "id": "0a000acf7e8db506",
+            "id": "5995e9f78ec26da5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self Interest/Interviews/Cool Tricks/Go.md",
-                "mode": "preview",
+                "file": "Loqi/microservices/(-3) Chat Service.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -128,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Self Interest/Interviews/Cool Tricks/Go.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +134,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Self Interest/Interviews/Cool Tricks/Go.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,9 +155,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Self Interest/Interviews/Cool Tricks/Go.md"
-              }
+              "state": {}
             }
           },
           {
@@ -198,17 +184,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0a000acf7e8db506",
+  "active": "aaf009d47e1d084a",
   "lastOpenFiles": [
-    "Self Interest/Research Papers/Edge Computing Survey.md",
-    "Self Interest/Interviews/Cool Tricks/Go.md",
-    "Class/CSE216/(5) Types.md",
-    "Class/CSE216/(10) Introduction to Python.md",
-    "Class/CSE216/(11) Functional Elements in Python.md",
-    "Class/CSE216/(8) Parameter Passing.md",
-    "Class/CSE216/(7) Functional Programming in Java.md",
-    "Class/CSE216/(6) Polymorphism.md",
-    "Class/CSE216/(9) Concurrent Programming.md",
-    "Class/CSE220/Pointers in C.md"
+    "Loqi/microservices/(-3) Chat Service.md",
+    "Loqi/microservices/(-3.1) Messaging Service.md",
+    "Loqi/microservices/(-7) Forum Service.md",
+    "Loqi/microservices/(6) Logging Service.md",
+    "Loqi/microservices/(5) Notification Service.md",
+    "Loqi/microservices/(-4) File Service.md",
+    "Loqi/microservices/(3) Direct Chat Service.md",
+    "Loqi/microservices/(2) Contact Service.md",
+    "Loqi/microservices/(-0) API Gateway.md",
+    "Loqi/microservices/(-1) Verification Service.md"
   ]
 }
