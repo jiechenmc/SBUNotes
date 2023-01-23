@@ -1,0 +1,5 @@
+```bash
+# for linting
+cppcheck
+```
+
