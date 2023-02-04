@@ -5,7 +5,7 @@ MSB = Most Significiant Byte
 TD = Top Down
 DU = Down Up
 
-Endianness governs how bytes are placed in memory.
+>[!important] Endianness governs how bytes are placed in memory.
 
 ### Little Endian (Reverse Order; RTL, TD)
 
