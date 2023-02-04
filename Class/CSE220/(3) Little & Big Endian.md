@@ -3,6 +3,8 @@
 LSB = Least Significiant Byte
 MSB = Most Significiant Byte
 
+Endianness governs how bytes are placed in memory.
+
 ### Little Endian (Reverse Order)
 
 >[!info] LSB is stored at the lowest address
