@@ -13,8 +13,6 @@ Endianness governs how bytes are placed in memory.
 >Read **Right to Left** or **Up Down**
 >**LSB** ... **MSB**
 
-
-
 ### Big Endian (Normal Order; LTR, DU)
 
 >[!info] MSB is stored at the lowest address
