@@ -8,55 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "23e1de2b0c244b7d",
+            "id": "9e0ad4c740381edd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Class/CSE216/(10) Introduction to Python.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad02c0335964861a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Class/CSE216/(5) Types.md",
+                "file": "Class/CSE220/(3) Little & Big Endian.md",
                 "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aaf009d47e1d084a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Class/CSE216/(5) Types.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5995e9f78ec26da5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Loqi/microservices/(-3) Chat Service.md",
-                "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Class/CSE216/(5) Types.md",
+                "file": "Class/CSE220/(3) Little & Big Endian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Class/CSE216/(5) Types.md",
+                "file": "Class/CSE220/(3) Little & Big Endian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Class/CSE216/(5) Types.md"
+                "file": "Class/CSE220/(3) Little & Big Endian.md"
               }
             }
           },
@@ -192,17 +155,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aaf009d47e1d084a",
+  "active": "9e0ad4c740381edd",
   "lastOpenFiles": [
-    "Class/CSE216/(6) Polymorphism.md",
     "Class/CSE216/(7) Functional Programming in Java.md",
+    "Class/CSE220/(3) Little & Big Endian.md",
+    "Class/CSE220/Pointers in C.md",
+    "Class/CSE220/Lecture 0 (1.23).md",
+    "Class/CSE216/(5) Types.md",
+    "Class/CSE216/(6) Polymorphism.md",
     "Class/CSE216/(8) Parameter Passing.md",
     "Class/CSE216/(9) Concurrent Programming.md",
     "Class/CSE216/(10) Introduction to Python.md",
-    "Class/CSE216/(11) Functional Elements in Python.md",
-    "Loqi/microservices/(-4) File Service.md",
-    "Loqi/microservices/(-3) Chat Service.md",
-    "Loqi/microservices/(-0) API Gateway.md",
-    "Loqi/microservices/(-3.1) Messaging Service.md"
+    "Class/CSE216/(11) Functional Elements in Python.md"
   ]
 }
