@@ -7,3 +7,8 @@
    
 ![[Pasted image 20230204230458.png]]
 (a) less is better?
+
+3. Dynamic Container Scheduling Method Based on Load Prediction
+   Uses time series analysis.
+   
+   spawns more containers if it predicts a higher load
