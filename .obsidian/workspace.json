@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self Interest/Cherrypick vs Revert.md",
+                "file": "Self Interest/Research Papers/Edge Computing Survey.md",
                 "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ace9cc6200538ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Self Interest/Research Papers/Methodology.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Self Interest/Cherrypick vs Revert.md",
+                "file": "Self Interest/Research Papers/Methodology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Self Interest/Cherrypick vs Revert.md",
+                "file": "Self Interest/Research Papers/Methodology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Self Interest/Cherrypick vs Revert.md"
+                "file": "Self Interest/Research Papers/Methodology.md"
               }
             }
           },
@@ -168,17 +180,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c4475b4aa65f9e22",
+  "active": "6ace9cc6200538ac",
   "lastOpenFiles": [
+    "Self Interest/Research Papers/Edge Computing Survey.md",
+    "Self Interest/Research Papers/Methodology.md",
+    "Self Interest/Research Papers/Pasted image 20230204223851.png",
+    "Self Interest/Cherrypick vs Revert.md",
     "Class/CSE220/(3) Little & Big Endian.md",
     "Class/CSE216/(7) Functional Programming in Java.md",
     "Class/CSE220/Pointers in C.md",
     "Class/CSE220/Lecture 0 (1.23).md",
     "Class/CSE216/(5) Types.md",
-    "Class/CSE216/(6) Polymorphism.md",
-    "Class/CSE216/(8) Parameter Passing.md",
-    "Class/CSE216/(9) Concurrent Programming.md",
-    "Class/CSE216/(10) Introduction to Python.md",
-    "Class/CSE216/(11) Functional Elements in Python.md"
+    "Class/CSE216/(6) Polymorphism.md"
   ]
 }
