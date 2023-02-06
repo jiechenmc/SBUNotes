@@ -43,3 +43,8 @@ In big endian:
 MSB ... LSB
 
 
+<h2> Alignment </h2>
+1-byte can be stored anywhere
+2-byte can be stored to even-numbered addresses
+4-byte can be stored to addresses of multiple of 4
+and so forth...
