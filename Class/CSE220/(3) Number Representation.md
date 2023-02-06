@@ -12,7 +12,7 @@
 | Two's Complement | [-2$^n-1$, 2$^n-1$ - 1]     |
 
 >**End around carry** only exists in one's complement
-> Two's complement has an extra negative number
+>You **drop** the extra bit in two's complement
 
 ## _Overflow_
 
