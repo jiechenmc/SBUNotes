@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self Interest/Research Papers/Methodology.md",
-                "mode": "source",
+                "file": "Class/CSE220/(3) Number Representation.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Self Interest/Research Papers/Methodology.md",
+                "file": "Class/CSE220/(3) Number Representation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Self Interest/Research Papers/Methodology.md",
+                "file": "Class/CSE220/(3) Number Representation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Self Interest/Research Papers/Methodology.md"
+                "file": "Class/CSE220/(3) Number Representation.md"
               }
             }
           },
@@ -182,14 +182,14 @@
   },
   "active": "6ace9cc6200538ac",
   "lastOpenFiles": [
-    "Self Interest/Research Papers/Edge Computing Survey.md",
+    "Class/CSE220/(3) Little & Big Endian.md",
+    "Class/CSE220/(3) Number Representation.md",
     "Self Interest/Research Papers/Methodology.md",
+    "Self Interest/Research Papers/Edge Computing Survey.md",
     "Self Interest/Research Papers/Pasted image 20230204223851.png",
     "Self Interest/Cherrypick vs Revert.md",
-    "Class/CSE220/(3) Little & Big Endian.md",
     "Class/CSE216/(7) Functional Programming in Java.md",
     "Class/CSE220/Pointers in C.md",
-    "Class/CSE220/Lecture 0 (1.23).md",
     "Class/CSE216/(5) Types.md",
     "Class/CSE216/(6) Polymorphism.md"
   ]
