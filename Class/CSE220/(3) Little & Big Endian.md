@@ -1,7 +1,7 @@
 #concept #hardware
 
-LSB = Least Significiant Byte
-MSB = Most Significiant Byte
+LSB = Least Significant Byte
+MSB = Most Significant Byte
 TD = Top Down
 DU = Down Up
 
