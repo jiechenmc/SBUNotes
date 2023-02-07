@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Class/CSE311/(3) Hardware Debugging.md",
+                "file": "Class/CSE311/(2) OS Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57e6675d61fe5456",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Class/CSE316/(1) Software Engineering.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Class/CSE311/(3) Hardware Debugging.md",
+                "file": "Class/CSE316/(1) Software Engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Class/CSE311/(3) Hardware Debugging.md",
+                "file": "Class/CSE316/(1) Software Engineering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Class/CSE311/(3) Hardware Debugging.md"
+                "file": "Class/CSE316/(1) Software Engineering.md"
               }
             }
           },
@@ -168,9 +180,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "986adab661785915",
+  "active": "57e6675d61fe5456",
   "lastOpenFiles": [
     "Class/CSE311/(2) OS Overview.md",
+    "Class/CSE311/(3) Hardware Debugging.md",
     "images/Pasted image 20230206223621.png",
     "images/Pasted image 20230206223414.png",
     "Class/CSE311/(1) Linux Commands.md",
@@ -178,7 +191,6 @@
     "Class/CSE220/(3) Little & Big Endian.md",
     "images/Pasted image 20230206221438.png",
     "images/Pasted image 20230206221534.png",
-    "images/Pasted image 20230206222310.png",
-    "images/Pasted image 20230206221856.png"
+    "images/Pasted image 20230206222310.png"
   ]
 }
