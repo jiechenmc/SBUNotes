@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3910a37c04ba3679",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Class/CSE316/(2) HTML.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Class/CSE316/(1) Software Engineering.md",
+                "file": "Class/CSE316/(2) HTML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Class/CSE316/(1) Software Engineering.md",
+                "file": "Class/CSE316/(2) HTML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Class/CSE316/(1) Software Engineering.md"
+                "file": "Class/CSE316/(2) HTML.md"
               }
             }
           },
@@ -180,17 +192,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "57e6675d61fe5456",
+  "active": "36a28996ae583e4e",
   "lastOpenFiles": [
+    "Class/CSE316/(1) Software Engineering.md",
+    "Pasted image 20230207000157.png",
+    "images/Pasted image 20230207000207.png",
+    "Class/CSE316/(2) HTML.md",
+    "Pasted image 20230206235924.png",
+    "Pasted image 20230206235911.png",
     "Pasted image 20230206235452.png",
     "images/Pasted image 20230206235504.png",
     "images/Pasted image 20230206235459.png",
-    "Pasted image 20230206234743.png.md",
-    "Class/CSE316/(1) Software Engineering.md",
-    "Class/CSE311/(2) OS Overview.md",
-    "Class/CSE311/(3) Hardware Debugging.md",
-    "images/Pasted image 20230206223621.png",
-    "images/Pasted image 20230206223414.png",
-    "Class/CSE311/(1) Linux Commands.md"
+    "Pasted image 20230206234743.png.md"
   ]
 }
