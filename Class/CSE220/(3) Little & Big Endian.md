@@ -48,3 +48,16 @@ MSB ... LSB
 2-byte can be stored to even-numbered addresses
 4-byte can be stored to addresses of multiple of 4
 and so forth...
+
+<h2> Little to Big Endian Conversion </h2>
+Take the number **258** for example:
+In little endian it's stored as 0x2 0x1
+
+1. Convert to bits: (little endian)
+	00000010 00000001
+2. Flip the bytes (now in big endian)
+   00000001 00000010
+   
+
+
+![[Pasted image 20230207122145.png]]
