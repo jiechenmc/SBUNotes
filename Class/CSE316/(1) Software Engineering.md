@@ -1,6 +1,6 @@
 <h1> Waterfall Method </h1>
 
-![[Pasted image 20230206234743.png]]
+![[Pasted image 20230206235459.png]]![[Pasted image 20230206235504.png]]
 
 ![[Pasted image 20230206234752.png]]
 
