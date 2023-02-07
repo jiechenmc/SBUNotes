@@ -57,6 +57,9 @@ In little endian it's stored as 0x2 0x1
 	00000010 00000001
 2. Flip the bytes (now in big endian)
    00000001 00000010
+3. Put them together
+   0000000100000010
+4. Now calculate
    
 
 
