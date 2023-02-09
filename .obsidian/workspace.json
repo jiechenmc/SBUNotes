@@ -13,50 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Class/CSE311/(2) OS Overview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "986adab661785915",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Class/CSE311/(2) OS Overview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "57e6675d61fe5456",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Class/CSE316/(1) Software Engineering.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3910a37c04ba3679",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Class/CSE316/(2) HTML.md",
-                "mode": "source",
+                "file": "Class/CSE220/(3) Number Representation.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Class/CSE311/(2) OS Overview.md",
+                "file": "Class/CSE220/(3) Number Representation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Class/CSE311/(2) OS Overview.md",
+                "file": "Class/CSE220/(3) Number Representation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Class/CSE311/(2) OS Overview.md"
+                "file": "Class/CSE220/(3) Number Representation.md"
               }
             }
           },
@@ -192,17 +155,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "36a28996ae583e4e",
+  "active": "73c864c7b9b21485",
   "lastOpenFiles": [
+    "Class/CSE311/(2) OS Overview.md",
     "Class/CSE316/(1) Software Engineering.md",
+    "Class/CSE220/(3) Number Representation.md",
+    "Class/CSE220/(3) Little & Big Endian.md",
+    "Class/CSE316/(2) HTML.md",
+    "Class/CSE311/(1) Linux Commands.md",
+    "Class/CSE220/(4) Bitwise.md",
     "Pasted image 20230207000157.png",
     "images/Pasted image 20230207000207.png",
-    "Class/CSE316/(2) HTML.md",
-    "Pasted image 20230206235924.png",
-    "Pasted image 20230206235911.png",
-    "Pasted image 20230206235452.png",
-    "images/Pasted image 20230206235504.png",
-    "images/Pasted image 20230206235459.png",
-    "Pasted image 20230206234743.png.md"
+    "Pasted image 20230206235924.png"
   ]
 }

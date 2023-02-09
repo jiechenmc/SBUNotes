@@ -7,9 +7,9 @@
 | Representation   | Range                       |
 | ---------------- | --------------------------- |
 | Unsigned Integer | [0, 2$^n$ - 1]              |
-| Signed Integer   | [-2$^n-1$ + 1, 2$^n-1$ - 1] |
-| One's Complement | [-2$^n-1$ + 1, 2$^n-1$ - 1] |
-| Two's Complement | [-2$^n-1$, 2$^n-1$ - 1]     |
+| Signed Integer   | [-2<sup>(n-1)</sup> + 1, 2<sup>(n-1)</sup> - 1] |
+| One's Complement | [-2<sup>(n-1)</sup> + 1, 2<sup>(n-1)</sup> - 1] |
+| Two's Complement | [-2<sup>(n-1)</sup>, 2<sup>(n-1)</sup> - 1]     |
 
 >**End around carry** only exists in one's complement
 >You **drop** the extra bit in two's complement
