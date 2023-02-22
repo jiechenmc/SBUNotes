@@ -22,6 +22,10 @@
 	- When you have an extra bit in the result
 	- This can cause inaccurate answers
 
+Overflow between 2 unisgned int = correct answer % 2<sup>n<sup>
+
+
+
 ## _Encoding_
 
 - Two Complement Encoding
@@ -47,10 +51,10 @@ e = 3
 
 Range of excess 127 is [-127, 128]
 
-####  32 bit
+####  32 bit (6 Digit Precision)
 | 1 bit sign | 8 bit exponent | 23 bit mantissa |excess-127     | 
 | ---------- | -------------- | --------------- | --- |
 
-#### 64 bit
+#### 64 bit (15 Digit Precision)
 | 1 bit sign | 11 bit exponent | 52 bit mantissa | excess-1023 | 
 | ---------- | --------------- | --------------- | ----------- |
