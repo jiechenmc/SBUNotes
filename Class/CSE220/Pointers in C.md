@@ -8,3 +8,9 @@ p = &n; /* p now points to n */
 *p = 2 
 /* p is derefenced, and now n = 2 */
 ```
+
+Arrays are double pointers
+
+`a` points to the memory address at the start of the array
+
+&a != &a[0]
