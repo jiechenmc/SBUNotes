@@ -20,6 +20,12 @@ calls can be made to: /api/messaging
 {
 	fullMessagePath: string
 }
+
+// Example
+
+{
+	fullMessagePath: chats/SAM101/sec01/room/messages/{messageID}
+}
 ```
 
 ***Response Body***
@@ -45,6 +51,11 @@ calls can be made to: /api/messaging
 {
 	collectionPath: string,
 	Content: string,
+}
+// Example
+{
+	collectionPath: chats/SAM101/sec01/room/messages,
+	content: "Hi",
 }
 ```
 
@@ -90,6 +101,10 @@ TBD
 {
 	fullMessagePath: string
 }
+//
+{
+	fullMessagePath: chats/SAM101/sec01/room/messages/{messageID}
+}
 ```
 
 ***Response Body***
@@ -97,7 +112,7 @@ TBD
 <font style="color:lightgreen">200 (OK)</font>
 ```json
 {
-    removed: string
+    removedFullMessagePath: string
 }
 ```
 <font style="color:red">404 (Not Found)</font>
