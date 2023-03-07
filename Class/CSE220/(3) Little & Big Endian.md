@@ -12,6 +12,8 @@ DU = Down Up
 >[!info] LSB is stored at the lowest address
 >Read **Right to Left** or **Up Down**
 >**LSB** ... **MSB**
+>LSB will be stored before the MSB
+
 >Good for numbers
 
 ### Big Endian (Normal Order; LTR, DU)
@@ -19,6 +21,7 @@ DU = Down Up
 >[!info] MSB is stored at the lowest address
 >Read **Left to Right ** or **Down Up**
 >**MSB** ... **LSB**
+>MSB will be stored before the LSB
 >Good for strings
 
 You want to read in a way where you get the **MSB first**. Hence why, Little Endian is right to left and Big Endian is left to right.
