@@ -4,6 +4,7 @@
 
 The following operations can be performed through the API
 
+Read (Reserved For Testing)
 Create
 Update
 Delete
