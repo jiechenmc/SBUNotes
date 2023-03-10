@@ -35,7 +35,8 @@ calls can be made to: /api/messaging
 {
     "author": string,
     "content": string,
-    "timeCreated": number
+    "firstCreated": timestamp,
+    "lastUpdated": timestamp,
 }
 ```
 <font style="color:red">404 (Not Found)</font>
