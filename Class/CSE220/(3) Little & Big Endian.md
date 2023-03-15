@@ -13,6 +13,8 @@ DU = Down Up
 >Read **Right to Left** or **Up Down**
 >**LSB** ... **MSB**
 >LSB will be stored before the MSB
+>The addresses are numbered like: 
+>5 4 3 2 1 0
 
 >Good for numbers
 
@@ -22,6 +24,9 @@ DU = Down Up
 >Read **Left to Right ** or **Down Up**
 >**MSB** ... **LSB**
 >MSB will be stored before the LSB
+> The addresses are numbered like:
+> 0 1 2 3 4 5
+
 >Good for strings
 
 You want to read in a way where you get the **MSB first**. Hence why, Little Endian is right to left and Big Endian is left to right.
