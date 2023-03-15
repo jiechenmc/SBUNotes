@@ -11,10 +11,12 @@ REC- | GREEN
 3 REC+ 
 6 REC-
 <h1>T-568A </h1>
-	is the same but flipped
+is the same but flipped
 
-1, 2 is REC+ / REC-
-3, 6 is TRANS+ / TRANS -
+1 REC+ 
+2 REC-
+3 TRANS+
+6 TRANS -
 
 
 Straight wiring is for a computer to a switch.
