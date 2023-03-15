@@ -1,10 +1,11 @@
 
 <h3> File System </h3>
+
 – /bin: core OS commands  
 – /boot: kernel and files needed to load the kernel  
-– /dev: entries for devices, e.g., disks, printers, ...  
+– /dev: entries for devices, e.g., disks, printers, ...
 – /etc: critical startup and configuration files  
-– /home: default home directories for users  
+– /home: default home directories for users 
 – /tmp: temporary files
 
 – /lib: libraries, and parts of the C compiler  
