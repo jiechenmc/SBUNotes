@@ -15,6 +15,8 @@ else:
   as things are getting ran, check for time has passed
   if a time has been met for a timeout, then that timeout will be ran
   
+  IMMEDIATES WILL ALWAYS RUN BEFORE TIMER
+  
   run immediate calls in the check phase
   clear out timer queue
 
