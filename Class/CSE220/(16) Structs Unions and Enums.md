@@ -19,6 +19,7 @@ typedef struct {
 
 <h3> enum </h3>
 ```c
+# by default the integer value of enums start at 0
 enum {CLUBS, DIAMONDS, HEARTS, SPADES} s1, s2;
 enum suit {CLUBS, DIAMONDS, HEARTS, SPADES};
 typedef enum {CLUBS, DIAMONDS, HEARTS, SPADES} Suit;
