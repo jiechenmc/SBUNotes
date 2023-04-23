@@ -7,6 +7,16 @@ require making a copy of all members in the structure.
 
 You can add a "tag" to an union by wrapping it in a struct
 
+```c
+typedef struct {
+	int kind; /* tag field */
+	union {
+		int i;
+		double d;
+	} u;
+} Number;
+```
+
 <h3> enum </h3>
 ```c
 enum {CLUBS, DIAMONDS, HEARTS, SPADES} s1, s2;
