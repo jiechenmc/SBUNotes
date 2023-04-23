@@ -1,1 +1,0 @@
-Scanf ignores whitespace until it hits a format specifier 
