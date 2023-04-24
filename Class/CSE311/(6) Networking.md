@@ -14,12 +14,15 @@ Subnet Mask /n = n is the number of 1 in 32 bits
 
 The number of subnet networks = 2<sup>n-24</sup>
 
+Host formula
 ![[Pasted image 20230322222837.png]]
 
 
 ![[Pasted image 20230322225557.png]]
 
 The number of supernetted networks = 2<sup>n-21</sup>
+
+![[Pasted image 20230323105355.png]]
 
 <h1>Homework 3</h1>
 
