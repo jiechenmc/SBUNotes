@@ -16,12 +16,12 @@ for i in range(rows):
 # Column Major
 
 ```python
-rows = 4
-cols = 4
+rows = 3
+cols = 10
 
-for i in range(cols):
-  for j in range(rows):
-    index = j * rows + i
-    print(index)
-  print()
+for i in range(rows):
+    for j in range(cols):
+        index = j * rows + i
+        print(index)
+    print()
 ```
