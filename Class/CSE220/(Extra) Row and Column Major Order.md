@@ -3,7 +3,7 @@
 
 ```python
 rows = 4
-cols = 5
+cols = 4
 
 for i in range(rows):
     for j in range(cols):
@@ -16,7 +16,7 @@ for i in range(rows):
 # Column Major
 
 ```python
-rows = 5
+rows = 4
 cols = 4
 
 for i in range(cols):
