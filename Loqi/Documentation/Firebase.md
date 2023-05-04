@@ -1,4 +1,10 @@
 
+>[!info] 
+>Odd numbered paths are collections
+>Even numbered paths are documents
+
+
+
 ##### Path to the collection of all messages
 ```
 /chats/CSE101/01-LEC/meta/_roomMessages
