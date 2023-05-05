@@ -10,3 +10,7 @@ IN SW rt is stored at A2, that will be where it's stored in the memory
 
 
 RTYPE instruction has all 0 opcode
+
+RT is the destination for I-type instructions
+
+RD is the destination for R-type instructions
