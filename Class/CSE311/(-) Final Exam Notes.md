@@ -31,3 +31,5 @@ A little bit: filesystem, firewall, processors
 Homework 3 and Homework 4
 
 question on logging
+
+calculating the parity bit
