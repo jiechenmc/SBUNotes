@@ -19,3 +19,4 @@ REC- | GREEN
 
 
 Straight wiring is for a computer to a switch.
+Cross wiring is for switch to switch
