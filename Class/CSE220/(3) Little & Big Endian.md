@@ -5,29 +5,27 @@ MSB = Most Significant Byte
 TD = Top Down
 DU = Down Up
 
->[!important] Endianness governs how bytes are placed in memory.
+> [!important] Endianness governs how bytes are placed in memory.
 
 ### Little Endian (Reverse Order; RTL, TD)
 
->[!info] LSB is stored at the lowest address
->Read **Right to Left** or **Up Down**
->**LSB** ... **MSB**
->LSB will be stored before the MSB
->The addresses are numbered like: 
->5 4 3 2 1 0
+> [!info] LSB is stored at the lowest address
+> Read **Right to Left** or **Up Down** >**LSB** ... **MSB**
+> LSB will be stored before the MSB
+> The addresses are numbered like:
+> 5 4 3 2 1 0
 
->Good for numbers
+> Good for numbers
 
 ### Big Endian (Normal Order; LTR, DU)
 
->[!info] MSB is stored at the lowest address
->Read **Left to Right ** or **Down Up**
->**MSB** ... **LSB**
->MSB will be stored before the LSB
+> [!info] MSB is stored at the lowest address
+> Read **Left to Right ** or **Down Up** >**MSB** ... **LSB**
+> MSB will be stored before the LSB
 > The addresses are numbered like:
 > 0 1 2 3 4 5
 
->Good for strings
+> Good for strings
 
 You want to read in a way where you get the **MSB first**. Hence why, Little Endian is right to left and Big Endian is left to right.
 
@@ -50,7 +48,6 @@ In big endian:
 **0, 0, 1, 4**
 MSB ... LSB
 
-
 <h2> Alignment </h2>
 1-byte can be stored anywhere
 2-byte can be stored to even-numbered addresses
@@ -62,13 +59,9 @@ Take the number **258** for example:
 In little endian it's stored as 0x2 0x1
 
 1. Convert to bits: (little endian)
-	00000010 00000001
+   00000010 00000001
 2. Flip the bytes (now in big endian)
    00000001 00000010
 3. Put them together
    0000000100000010
 4. Now calculate
-   
-
-
-![[Pasted image 20230207122145.png]]
