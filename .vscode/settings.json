@@ -1,0 +1,20 @@
+{
+    "files.autoSave": "onFocusChange",
+    "editor.minimap.enabled": false,
+    "editor.wrappingIndent": "indent",
+    "editor.overviewRulerBorder": false,
+    "foam.edit.linkReferenceDefinitions": "withExtensions",
+    "[markdown]": {
+        "editor.quickSuggestions": {
+            "other": true,
+            "comments": false,
+            "strings": false
+        }
+    },
+    "git.enableSmartCommit": true,
+    "git.postCommitCommand": "sync",
+    "files.exclude": {
+        "_site/**": true
+    },
+    "files.insertFinalNewline": true,
+}
