@@ -1,5 +1,6 @@
 ---
 layout: post
+title: HTTP Methods
 tags: system, api
 ---
 

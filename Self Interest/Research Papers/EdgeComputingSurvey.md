@@ -5,7 +5,6 @@
 
 **Cloudlets** - allows access to the Cloud by using the computer resources available in the local network
 
-![[edge-cloud-diagram.png]]
 
 **Edge devices** like routers, access points, and base station host different services (e.g., QoS, VPN, and Voice over IP etc.)
 

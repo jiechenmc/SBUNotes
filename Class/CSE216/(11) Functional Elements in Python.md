@@ -1,4 +1,8 @@
-#python 
+---
+layout: post
+title: Functional Elements
+tags: python
+---
 # Coroutine
 >[!info] The terms function or method are synonymous to a subroutine.
 
