@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Cherrypick vs Revert
-tags: git
+title: File
+tags:
+  - git
 ---
 
 **cherrypick** on unmerged commit

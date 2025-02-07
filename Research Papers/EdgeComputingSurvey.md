@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Edge Computing Survey
-tags: networks
+tags:
+  - networks
 ---
 
 **Mobile Edge computing** - mobile users can utilize the computing services from the base station
