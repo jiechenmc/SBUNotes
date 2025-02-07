@@ -1,4 +1,8 @@
-#concept #java 
+---
+layout: post
+title: Polymorphism
+tags: java
+---
 
 >[!info] 
 >"Diamond Problem" is a result of multiple inheritance

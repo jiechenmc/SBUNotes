@@ -1,12 +1,16 @@
-
+---
+layout: post
+title: Number Representation
+tags: architecture
+---
 
 >[!info] The range of digits for a base, b, is [0, b - 1]
 
 ## _Ranges_
 
-| Representation   | Range                       |
-| ---------------- | --------------------------- |
-| Unsigned Integer | [0, 2$^n$ - 1]              |
+| Representation   | Range                                           |
+| ---------------- | ----------------------------------------------- |
+| Unsigned Integer | [0, 2$^n$ - 1]                                  |
 | Signed Integer   | [-2<sup>(n-1)</sup> + 1, 2<sup>(n-1)</sup> - 1] |
 | One's Complement | [-2<sup>(n-1)</sup> + 1, 2<sup>(n-1)</sup> - 1] |
 | Two's Complement | [-2<sup>(n-1)</sup>, 2<sup>(n-1)</sup> - 1]     |
@@ -52,9 +56,9 @@ e = 3
 Range of excess 127 is [-127, 128]
 
 ####  32 bit (6 Digit Precision)
-| 1 bit sign | 8 bit exponent | 23 bit mantissa |excess-127     | 
-| ---------- | -------------- | --------------- | --- |
+| 1 bit sign | 8 bit exponent | 23 bit mantissa | excess-127 |
+| ---------- | -------------- | --------------- | ---------- |
 
 #### 64 bit (15 Digit Precision)
-| 1 bit sign | 11 bit exponent | 52 bit mantissa | excess-1023 | 
+| 1 bit sign | 11 bit exponent | 52 bit mantissa | excess-1023 |
 | ---------- | --------------- | --------------- | ----------- |

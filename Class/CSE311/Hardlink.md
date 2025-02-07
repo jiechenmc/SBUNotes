@@ -1,3 +1,8 @@
+---
+layout: post
+title: Hard Link
+tags: linux filesystem
+---
 
 Hardlink is like an alias 
 - mirror copy of original file

@@ -1,4 +1,8 @@
-#concept #java 
+---
+layout: post
+title: Parameter Passing
+tags: java
+---
 
 > [!note] > Everything in Java is pass by value 
 > Reference types will have their pointers copied

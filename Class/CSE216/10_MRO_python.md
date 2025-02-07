@@ -1,4 +1,8 @@
-#python 
+---
+layout: post
+title: MRO
+tags: python
+---
 
 >[!info] Python is pass by value!
 

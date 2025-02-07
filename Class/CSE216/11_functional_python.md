@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Functional Elements
+title: Functional Programming
 tags: python
 ---
 # Coroutine

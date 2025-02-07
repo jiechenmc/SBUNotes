@@ -1,4 +1,8 @@
-#concept #hardware
+---
+layout: post
+title: Endianess
+tags: architecture
+---
 
 LSB = Least Significant Byte
 MSB = Most Significant Byte

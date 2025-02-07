@@ -1,3 +1,9 @@
+---
+layout: post
+title: Networking
+tags: linux networks
+---
+
 The five protocol layers are:
 
 - Application

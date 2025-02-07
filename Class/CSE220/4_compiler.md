@@ -1,3 +1,9 @@
+---
+layout: post
+title: C Compiler
+tags: C
+---
+
 1. C **preprocessor** replace \#include and \#macro
 2. C **compiler** compiles to human readable assembly code (.s)
 3. The **assembler** converts that to object file (.o)

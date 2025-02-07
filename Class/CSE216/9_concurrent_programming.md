@@ -1,4 +1,8 @@
-#concept #java #systems 
+---
+layout: post
+title: Concurrent Programming
+tags: java
+---
 
 # Processes
 	- A process will have a complete set of basic runtime resources. 

@@ -1,3 +1,9 @@
+---
+layout: post
+title: Edge Computing Survey
+tags: networks
+---
+
 **Mobile Edge computing** - mobile users can utilize the computing services from the base station
 (provides the off-load processing, application services and storage close to the end users).
 

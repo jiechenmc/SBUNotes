@@ -1,4 +1,8 @@
-#concept #c
+---
+layout: post
+title: Pointers
+tags: C
+---
 
 ```C
 int n; /* an int variable */ 

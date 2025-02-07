@@ -1,4 +1,8 @@
-	#concept #java 
+---
+layout: post
+title: Functional Programming
+tags: java
+---
 
 # What is functional programming?
 
@@ -32,7 +36,7 @@
 | Normal Order                                     | Applicative-order                            |
 | ------------------------------------------------ | -------------------------------------------- |
 | The left-most function is always evaluated first | The inner most functions are evaluated first |
-| Evaluated when they are actually used            | Evaluated as they are passed in              | 
+| Evaluated when they are actually used            | Evaluated as they are passed in              |
 
 >[!info] Lazy Evaluation
 > With lazy evaluation, the evaluation is delayed (until needed) in a way that avoids multiple evaluations of the same expression.

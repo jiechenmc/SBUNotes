@@ -1,3 +1,8 @@
+---
+layout: post
+title: Common File System Paths
+tags: linux filesystem
+---
 
 <h3> File System </h3>
 

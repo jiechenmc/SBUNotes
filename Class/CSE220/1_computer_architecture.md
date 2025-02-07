@@ -1,5 +1,10 @@
+---
+layout: post
+title: Von Neumann Architecture
+tags: architecture
+---
 
-<h1>Von Neumann Archotecture</h1>
+<h1>Von Neumann Architecture</h1>
 - Control Unit (Fetch) (Decode)
 - ALU (Load) (Execute)
 - Registers

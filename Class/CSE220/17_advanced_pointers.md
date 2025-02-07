@@ -1,3 +1,8 @@
+---
+layout: post
+title: Advanced Pointers
+tags: C
+---
 
 Function pointer syntax
 
