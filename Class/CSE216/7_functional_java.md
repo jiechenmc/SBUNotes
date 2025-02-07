@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Functional Programming
+title: Functional Programming in Java
 tags: java
 ---
 
