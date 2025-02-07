@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MIPS
-tags: mips
+tags: architecture
 ---
 
 The runtime stacks grow downwards from highest memory address to lower
