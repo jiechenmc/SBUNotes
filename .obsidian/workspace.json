@@ -13,12 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_templates/Common.md",
+                "file": "SWE/HTTP.md",
                 "mode": "source",
                 "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Common"
+              }
             }
           }
         ]
@@ -40,11 +38,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -59,9 +54,7 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
+              }
             }
           },
           {
@@ -69,9 +62,7 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "state": {}
             }
           }
         ]
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_templates/Common.md",
+                "file": "SWE/HTTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,9 +93,7 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Common"
+              }
             }
           },
           {
@@ -113,12 +102,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_templates/Common.md",
+                "file": "SWE/HTTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Common"
+              }
             }
           },
           {
@@ -128,12 +115,8 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
+                "useHierarchy": true
+              }
             }
           },
           {
@@ -142,13 +125,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_templates/Common.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Common"
+                "file": "SWE/HTTP.md"
+              }
             }
           }
         ]
@@ -166,17 +144,25 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "cd228ec6a8c3fc7c",
   "lastOpenFiles": [
-    "CSE 590 Nte 1.md",
-    "_templates/Common.md",
-    "ssss.md",
-    "SWE/HTTP.md",
+    "Class/CSE311/1_filesystem.md",
+    "Class/CSE311/6_networking.md",
+    "Class/CSE311/Hardlink.md",
     "SWE/Cherrypick.md",
+    "SWE/HTTP.md",
+    "Class/CSE216/6_polymorphism.md",
+    "Class/CSE216/7_functional_java.md",
+    "Class/CSE216/9_concurrent_programming.md",
+    "Class/CSE216/10_MRO_python.md",
+    "Class/CSE216/8_parameter_passing.md",
+    "Class/CSE216/5_types.md",
+    "_templates/Common.md",
+    "CSE 590 Nte 1.md",
+    "ssss.md",
     "_templates",
     "2025-02-06.md",
     "Untitled.canvas",

@@ -1,8 +1,7 @@
 ---
 layout: post
 title: File
-tags:
-  - git
+tags: git
 ---
 
 **cherrypick** on unmerged commit
