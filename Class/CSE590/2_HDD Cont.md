@@ -24,9 +24,9 @@ tags:
 	- 1500b
 **Storage**
 - Sector size of 512B (c. 1960s)
-- Around c. 2010 it grew to 4Kb
+- Around c. 2010 it grew to 4KB
 	- The increased size matches CPU page size and better for caching
-- OS offers backwards compatibility between 512B and 4Kb sector sizes
+- OS offers backwards compatibility between 512B and 4KB sector sizes
 
 >[!warning]
 > Writing 512b to a 4Kb sector is **bad**

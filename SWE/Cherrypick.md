@@ -3,7 +3,6 @@ layout: post
 title: File
 tags: git
 ---
-
 **cherrypick** on unmerged commit
 - applies a commit as patch
 

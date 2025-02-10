@@ -3,7 +3,6 @@ layout: post
 title: File
 tags: linux filesystem
 ---
-
 # Files
 
 A `file` is an array of bytes associated with an inode.

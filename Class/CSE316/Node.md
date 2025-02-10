@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Event Loop
-tags: node.js
+tags:
+  - nodejs
 ---
-
 setTimeOut won't be exact
 
 the poll phase controls the timer phase

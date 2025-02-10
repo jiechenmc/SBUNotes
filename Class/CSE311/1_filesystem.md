@@ -3,8 +3,7 @@ layout: post
 title: Common File System Paths
 tags: linux filesystem
 ---
-
-<h3> File System </h3>
+### Filesystem
 
 – /bin: core OS commands  
 – /boot: kernel and files needed to load the kernel  

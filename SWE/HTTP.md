@@ -1,7 +1,8 @@
 ---
 layout: post
 title: HTTP Methods
-tags: networks
+tags:
+  - networks
 ---
 
 | Method | Purpose                  |

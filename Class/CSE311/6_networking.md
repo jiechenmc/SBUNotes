@@ -3,7 +3,6 @@ layout: post
 title: Networking
 tags: linux networks
 ---
-
 The five protocol layers are:
 
 - Application
@@ -15,19 +14,6 @@ The five protocol layers are:
 You can figure out the mac address of a IP by using ARP to query
 
 Subnet Mask /n = n is the number of 1 in 32 bits
-
-The number of subnet networks = 2<sup>n-24</sup>
-
-Host formula
-
-The number of supernetted networks = 2<sup>n-21</sup>
-
-<h1>Homework 3</h1>
-
-Installing Lamp tldr;
-
-install apache2
-let it through the firewall
 
 SSL-cert-snake oil is a self-signed certificate.
 

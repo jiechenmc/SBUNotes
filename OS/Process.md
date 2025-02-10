@@ -3,7 +3,6 @@ layout: post
 title: Processes and Threads
 tags: linux virtualization
 ---
-
 # Process
 
 ## fork() vs exec()

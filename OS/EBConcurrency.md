@@ -3,7 +3,6 @@ layout: post
 title: Event Based Concurrency
 tags: linux concurrency
 ---
-
 # Event Based Concurrency
 
 `select()` and `poll()` system calls can be used to check if a fd is ready for reads or writes.
