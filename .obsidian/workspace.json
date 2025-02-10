@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "28f61962eb303726",
+        "id": "eaa86a0227789612",
         "type": "tabs",
         "children": [
           {
-            "id": "f95223c2ea14f606",
+            "id": "dd4c2f14e896a926",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Class/CSE590/4_Storage_Stack_Filesystem.md",
+                "file": "Class/CSE356/Shard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4_Storage_Stack_Filesystem"
+              "title": "Shard"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "filesystem",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -162,6 +161,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -171,11 +171,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8b413fa82f3f59e2",
+  "active": "dd4c2f14e896a926",
   "lastOpenFiles": [
+    "Shard 2025-02-10 11.57.25.excalidraw.md",
+    "Class/CSE356/Shard.md",
+    "Excalidraw/Shard 2025-02-10 11.57.25.excalidraw.md",
+    "Excalidraw/Drawing 2025-02-10 11.57.09.excalidraw.md",
+    "Excalidraw",
+    "Untitled.canvas",
+    "Class/CSE356/Consistent Hashing.md",
+    "Class/CSE356/Replication.md",
+    "Class/CSE590/4_Storage_Stack_Filesystem.md",
     "Class/CSE356",
     "Class/CSE590/4_Storage_Stack.md",
-    "Class/CSE590/4_Storage_Stack_Filesystem.md",
     "OS/File.md",
     "Class/CSE590/3_Flash_Storage.md",
     "Class/CSE590/2_HDD Cont.md",
@@ -193,12 +201,9 @@
     "ssss.md",
     "_templates",
     "2025-02-06.md",
-    "Untitled.canvas",
     "ss.md",
     "Research Papers/EdgeComputingSurvey.md",
     "Class/CSE220/3_endianess.md",
-    "Class/CSE220/1_computer_architecture.md",
-    "OS/Process.md",
-    "OS/EBConcurrency.md"
+    "Class/CSE220/1_computer_architecture.md"
   ]
 }
