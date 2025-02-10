@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7e0be4072936dc01",
+        "id": "28f61962eb303726",
         "type": "tabs",
         "children": [
           {
-            "id": "6c646021ef013a64",
+            "id": "f95223c2ea14f606",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file",
+                "query": "filesystem",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,11 +74,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "af2a06fd59809a0b",
@@ -170,36 +171,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6c646021ef013a64",
+  "active": "8b413fa82f3f59e2",
   "lastOpenFiles": [
-    "Class/CSE311/Hardlink.md",
-    "2025-02-09.md",
-    "Class/CSE590/4_Storage_Stack_Filesystem.md",
-    "Class/CSE590/1_HDD Intro.md",
-    "Class/CSE590/2_HDD Cont.md",
-    "Class/CSE590/3_Flash_Storage.md",
+    "Class/CSE356",
     "Class/CSE590/4_Storage_Stack.md",
-    "SWE/HTTP.md",
-    "SWE/Cherrypick.md",
-    "Research Papers/EdgeComputingSurvey.md",
-    "Class/CSE220/mips.md",
-    "Class/CSE316/DB.md",
-    "Class/CSE316/Node.md",
-    "Class/CSE311/6_networking.md",
-    "Class/CSE311/1_filesystem.md",
-    "OS/Process.md",
+    "Class/CSE590/4_Storage_Stack_Filesystem.md",
     "OS/File.md",
-    "OS/EBConcurrency.md",
-    "Class/CSE216/9_concurrent_programming.md",
-    "Class/CSE220/4_compiler.md",
-    "Class/CSE220/13_pointers.md",
-    "Class/CSE220/16_structs_unions_enums.md",
-    "Class/CSE220/17_advanced_pointers.md",
-    "Class/CSE220/1_computer_architecture.md",
+    "Class/CSE590/3_Flash_Storage.md",
+    "Class/CSE590/2_HDD Cont.md",
+    "Class/CSE590/1_HDD Intro.md",
+    "Class/CSE216/5_types.md",
     "Class/CSE590",
+    "assets",
+    "SWE/Cherrypick.md",
+    "SWE/HTTP.md",
     "Class/CSE216/6_polymorphism.md",
     "Class/CSE216/7_functional_java.md",
+    "Class/CSE316/DB.md",
+    "_templates/Common.md",
+    "CSE 590 Nte 1.md",
+    "ssss.md",
     "_templates",
-    "Untitled.canvas"
+    "2025-02-06.md",
+    "Untitled.canvas",
+    "ss.md",
+    "Research Papers/EdgeComputingSurvey.md",
+    "Class/CSE220/3_endianess.md",
+    "Class/CSE220/1_computer_architecture.md",
+    "OS/Process.md",
+    "OS/EBConcurrency.md"
   ]
 }
