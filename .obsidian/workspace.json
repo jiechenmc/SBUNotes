@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OS/EBConcurrency.md",
+                "file": "SWE/Go Language Features.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EBConcurrency"
+              "title": "Go Language Features"
             }
           }
         ]
@@ -173,13 +173,17 @@
   },
   "active": "5072111fe04aad2f",
   "lastOpenFiles": [
-    "SWE/HTTP.md",
+    "SWE/Cherrypick.md",
+    "SWE/Go Language Features.md",
+    "OS/File.md",
+    "Untitled",
+    "OS/Process.md",
     "OS/EBConcurrency.md",
+    "SWE/HTTP.md",
     "Excalidraw/Shard 2025-02-10 12.36.41.excalidraw.md",
     "Excalidraw/Shard 2025-02-10 12.27.51.excalidraw.md",
     "Class/CSE356/Shard.md",
     "Research Papers/EdgeComputingSurvey.md",
-    "SWE/Cherrypick.md",
     "Excalidraw",
     "Shard 2025-02-10 11.57.25.excalidraw.md",
     "Excalidraw/Shard 2025-02-10 11.57.25.excalidraw.md",
@@ -190,7 +194,6 @@
     "Class/CSE590/4_Storage_Stack_Filesystem.md",
     "Class/CSE356",
     "Class/CSE590/4_Storage_Stack.md",
-    "OS/File.md",
     "Class/CSE590/3_Flash_Storage.md",
     "Class/CSE590/2_HDD Cont.md",
     "Class/CSE590/1_HDD Intro.md",
@@ -202,8 +205,6 @@
     "Class/CSE316/DB.md",
     "_templates/Common.md",
     "CSE 590 Nte 1.md",
-    "ssss.md",
-    "_templates",
-    "2025-02-06.md"
+    "_templates"
   ]
 }
