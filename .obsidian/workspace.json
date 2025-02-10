@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "eaa86a0227789612",
+        "id": "557665809210fec5",
         "type": "tabs",
         "children": [
           {
-            "id": "dd4c2f14e896a926",
+            "id": "b69f5a935e82a1fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -171,13 +171,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dd4c2f14e896a926",
+  "active": "b69f5a935e82a1fc",
   "lastOpenFiles": [
-    "Shard 2025-02-10 11.57.25.excalidraw.md",
+    "Excalidraw/Shard 2025-02-10 12.36.41.excalidraw.md",
     "Class/CSE356/Shard.md",
+    "Excalidraw/Shard 2025-02-10 12.27.51.excalidraw.md",
+    "Research Papers/EdgeComputingSurvey.md",
+    "SWE/Cherrypick.md",
+    "SWE/HTTP.md",
+    "Excalidraw",
+    "Shard 2025-02-10 11.57.25.excalidraw.md",
     "Excalidraw/Shard 2025-02-10 11.57.25.excalidraw.md",
     "Excalidraw/Drawing 2025-02-10 11.57.09.excalidraw.md",
-    "Excalidraw",
     "Untitled.canvas",
     "Class/CSE356/Consistent Hashing.md",
     "Class/CSE356/Replication.md",
@@ -191,8 +196,6 @@
     "Class/CSE216/5_types.md",
     "Class/CSE590",
     "assets",
-    "SWE/Cherrypick.md",
-    "SWE/HTTP.md",
     "Class/CSE216/6_polymorphism.md",
     "Class/CSE216/7_functional_java.md",
     "Class/CSE316/DB.md",
@@ -201,9 +204,6 @@
     "ssss.md",
     "_templates",
     "2025-02-06.md",
-    "ss.md",
-    "Research Papers/EdgeComputingSurvey.md",
-    "Class/CSE220/3_endianess.md",
-    "Class/CSE220/1_computer_architecture.md"
+    "ss.md"
   ]
 }
