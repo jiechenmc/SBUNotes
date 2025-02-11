@@ -30,6 +30,14 @@ The filesystem provides the abstraction of N x LBAs, whose size is fixed 512B or
 - owners, groups
 - links or pointers to the data blocks
 
+>[!important]
+>Sometimes the metadata is more important than the file content itself.
+>- Obviously, this depends on the actual content
+>	- If it is a video, then having a few corrupted bits won't be percieved
+>	- But if it is a financial spreadsheet, then the consequences will be far greater
+>- Generally, the metadata is more important because:
+>	- If you lose name, can't find it
+>	- If you lose the actual pointers to the data blocks, then data is lost
 # Why different types?
 
 - all objects have metadata + inode and possible data
