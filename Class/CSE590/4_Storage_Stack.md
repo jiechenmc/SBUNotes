@@ -24,7 +24,7 @@ tags:
 	- Requests to read/write LBAs may come from different apps/sources
 	- Requests may interleave in any order
 
-Assume a HDD has 100 tracks, each track with 100 LBA.
+Assume a HDD has 10 tracks, each track with 100 LBA.
 Requests come in for 1, 300, 3, 400, 730, 402
 
 The **naive scheduler** will read this in the order received. This results in high latency with all the head movement.
