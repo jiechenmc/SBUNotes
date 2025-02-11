@@ -45,7 +45,7 @@ The filesystem provides the abstraction of N x LBAs, whose size is fixed 512B or
 
 (b) Directories:
 - A table of records <name, inode#>
-- When we lookup, we scan the table for a name and return inode #, if not found we return error `ENOENT`.
+- When we lookup, we scan the table for a name and return inode#, if not found we return error `ENOENT`.
 
 The inode# alone does not tell what type of file the underlying object is. Historically, some filesystems add/move info to the directory entry, `dirent`. Ex. the type of file of the inode.
 
@@ -68,7 +68,7 @@ To create/mkdir/mknod: allocate a new string + inode
 - Part of the `namei` lookup process
 
 (d) Pipes:
-- A named entity in a directory with Inode
+- A named entity in a directory with inode
 - The read/write is redirected to a process
 - Pipes are useful for control command to services
 - Ex. Apache may create a pipe for the CLI to send commands to the web server.
