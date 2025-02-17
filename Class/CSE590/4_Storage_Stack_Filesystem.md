@@ -16,7 +16,7 @@ The filesystem provides the abstraction of N x LBAs, whose size is fixed 512B or
 
 # File Metadata
 
-- name
+- name (not on inode, they are on dirent)
 - dates; created, modified. access
 - size
 - type
