@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "86eb26e084a13edf",
+        "id": "47bdca628244db2d",
         "type": "tabs",
         "children": [
           {
-            "id": "e2a69715dcaef11b",
+            "id": "e6da9dd739107c1b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/TCP-Tahoe.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "TCP-Tahoe"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -169,7 +167,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e2a69715dcaef11b",
+  "active": "e6da9dd739107c1b",
   "lastOpenFiles": [
     "Excalidraw/TCP-Tahoe.md",
     "Excalidraw/TCP-Tahoe.md",
