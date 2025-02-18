@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "f3504f16342d01e3",
+        "id": "86eb26e084a13edf",
         "type": "tabs",
         "children": [
           {
-            "id": "5072111fe04aad2f",
+            "id": "e2a69715dcaef11b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Class/CSE590/4_Storage_Stack_Filesystem.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/TCP-Tahoe.md"
               },
-              "icon": "lucide-file",
-              "title": "4_Storage_Stack_Filesystem"
+              "icon": "excalidraw-icon",
+              "title": "TCP-Tahoe"
             }
           }
         ]
@@ -171,11 +169,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5072111fe04aad2f",
+  "active": "e2a69715dcaef11b",
   "lastOpenFiles": [
+    "Excalidraw/TCP-Tahoe.md",
+    "Excalidraw/TCP-Tahoe.md",
+    "Excalidraw/TCP-CumAck.md",
+    "Excalidraw/Drawing 2025-02-18 16.35.17.excalidraw.md",
+    "Excalidraw/CDN.md",
+    "Excalidraw/DNS-Query.md",
+    "Excalidraw/HTTPS.md",
+    "Excalidraw/TCP-Flow.md",
+    "Class/CSE534/2_DNS.md",
+    "Excalidraw/ConsistentHashing.md",
+    "Excalidraw/ReplicationFactor.md",
+    "Class/CSE534/1_intro.md",
+    "Class/CSE220/3_numbers.md",
+    "Class/CSE220/3_endianess.md",
+    "Class/CSE220/13_pointers.md",
+    "Class/CSE220/17_advanced_pointers.md",
+    "Class/CSE220/16_structs_unions_enums.md",
+    "Class/CSE590/4_Storage_Stack_Filesystem.md",
+    "Class/CSE534",
     "Class/CSE590/5_Filesystem_Demo.md",
     "OS/File.md",
-    "Class/CSE590/4_Storage_Stack_Filesystem.md",
     "Class/CSE590/4_Storage_Stack.md",
     "Class/CSE590/3_Flash_Storage.md",
     "Research Papers/EdgeComputingSurvey.md",
@@ -183,28 +199,11 @@
     "SWE/Go Language Features.md",
     "Untitled",
     "OS/Process.md",
-    "OS/EBConcurrency.md",
-    "SWE/HTTP.md",
-    "Excalidraw/Shard 2025-02-10 12.36.41.excalidraw.md",
-    "Excalidraw/Shard 2025-02-10 12.27.51.excalidraw.md",
-    "Class/CSE356/Shard.md",
     "Excalidraw",
-    "Shard 2025-02-10 11.57.25.excalidraw.md",
-    "Excalidraw/Shard 2025-02-10 11.57.25.excalidraw.md",
-    "Excalidraw/Drawing 2025-02-10 11.57.09.excalidraw.md",
     "Untitled.canvas",
-    "Class/CSE356/Consistent Hashing.md",
-    "Class/CSE356/Replication.md",
     "Class/CSE356",
-    "Class/CSE590/2_HDD Cont.md",
-    "Class/CSE590/1_HDD Intro.md",
-    "Class/CSE216/5_types.md",
     "Class/CSE590",
     "assets",
-    "Class/CSE216/6_polymorphism.md",
-    "Class/CSE216/7_functional_java.md",
-    "Class/CSE316/DB.md",
-    "_templates/Common.md",
     "_templates"
   ]
 }

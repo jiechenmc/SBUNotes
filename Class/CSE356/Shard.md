@@ -48,14 +48,14 @@ The idea is you have a ring, and on the ring you have nodes that are responsible
 When a new node is added to the ring, it will start migrating data from the node before it. During this process the new node will not receive requests directly.  Every new request to the new node's range goes to the old node and replicated. 
 
 >[!info] Example
->![[Shard 2025-02-10 12.27.51.excalidraw]]
+>![[ConsistentHashing]]
 
 # Replication Factor
 
 The replication factor determines how many nodes should keep a copy of the data. There's a concept of home and failover. If the replication factor is 2, then the write will happen to the home node and replicated to the next node. If it is 3, it will be replicated to the next 2 nodes.
 
 >[!info] Example
->![[Shard 2025-02-10 12.36.41.excalidraw]]
+>![[ReplicationFactor]]
 
 With this replication, when the home node goes down, the next node can take over. And when the downed node comes back, it will announce itself as a new node.
 
