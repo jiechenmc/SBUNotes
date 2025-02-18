@@ -41,3 +41,11 @@ Pipeline - allows next request(s) to be sent without waiting for response.
 - Allows servers to initialize web object transfer
 - Can compress headers and payloads
 
+# What are some performance metrics?
+
+1. RTT - latency, request to first bit from response; Fiber go fast, Satellites are slow.
+2. Accuracy
+3. Throughput - how fast and how much
+4. Bandwidth - how much
+
+* If 1 bit transfers fast, but 100 bits slow it down, then the throughput is low.
