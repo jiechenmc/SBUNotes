@@ -17,7 +17,7 @@ If something that changes often, we would abstract it so lower levels can change
 Makes things scalable.
 
 # HTTP
-![[TCP-Flow]]
+![[HTTP]]
 
 HTTP/1.0 1 RTT per request
 HTTP/1.1 parallel, pipeline, persistent
