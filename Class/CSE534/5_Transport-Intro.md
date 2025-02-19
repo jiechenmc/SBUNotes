@@ -12,6 +12,8 @@ tags:
 
 # Abstractions of the Transport Layer
 
+*Socket programming provides a way to realize the transport layer abstraction*
+
 ### End to End Connection
 - Provides an abstraction that 2 computers are connected.
 
